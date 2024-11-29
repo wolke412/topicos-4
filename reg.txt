@@ -1,0 +1,38 @@
+Identificar proposta
+  L Especificidade do objetivo
+
+Estudo dos Dados
+  L Seleção dos campos
+  L Gráficos Critica_$ X Vendas Globais
+      L Media, Mediana, Moda, Max, ?Min
+      L Gerar para variações diferentes
+
+Mostrar Tratamento Idiota 
+  L Zeros
+  L Médias
+  L Por fim: Drop
+
+Resultados:
+!! ( em "regressor" manter LinearRegressor )
+  L Regressão pura com baixa porcentagem
+  L Grafico de dispersão
+      L Mostrar testes com variáveis numéricas e categoricas;
+      L Exponencial;
+      L Polinomial;
+
+Insights kkkkk
+  L Agrupamento
+  L Exibir Graficos do n. plataformas X Vendas
+
+Novos Resultados:
+  L Graficos de Dispersão R² e MSE
+
+-- \ --
+
+Novo tratamento de dados
+  L Modelo de regressão para calcular os valores medios aos inves de 0
+  L Exbir resultados;
+  L Alteralçao do regressor;
+      L Demonstrar alterações de parâmetros.
+
+Exibir resultado final, grafico e metricas.
