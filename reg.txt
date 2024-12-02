@@ -20,6 +20,10 @@ Resultados:
       L Exponencial;
       L Polinomial;
 
+
+Preprocessamento com regressão:
+  L Mostrar se houver alteração nos resultados
+
 Insights kkkkk
   L Agrupamento
   L Exibir Graficos do n. plataformas X Vendas
@@ -36,3 +40,5 @@ Novo tratamento de dados
       L Demonstrar alterações de parâmetros.
 
 Exibir resultado final, grafico e metricas.
+
+-- DONE --
